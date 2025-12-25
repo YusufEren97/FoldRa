@@ -129,6 +129,20 @@ FoldRa açık kaynaklı, ücretsiz bir projedir ve pahalı dijital imza sertifik
 
 ---
 
+## 👥 Team / Ekibimiz
+
+<div align="center">
+
+| Name / İsim | Role / Rol | GitHub |
+| :--- | :--- | :--- |
+| **Yusuf Eren Seyrek** | Project Manager & Lead Developer / Proje Yönetmeni & Baş Geliştirici | [@YusufEren97](https://github.com/YusufEren97) |
+| **Mehmet Delin** | Developer / Geliştirici | [@Deleny](https://github.com/Deleny) |
+
+</div>
+
+---
+
+
 ## 📄 License / Lisans
 
 This project is licensed under the MIT License.  
@@ -138,6 +152,6 @@ Bu proje MIT Lisansı ile açık kaynak olarak sunulmaktadır.
 
 <div align="center">
 
-**Crafted with ❤️ by [YusufEren97](https://github.com/YusufEren97)**
+**Crafted with ❤️ by [Yusuf Eren Seyrek](https://github.com/YusufEren97) & [Mehmet Delin](https://github.com/Deleny)**
 
 </div>
